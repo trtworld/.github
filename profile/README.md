@@ -1,6 +1,6 @@
-# 👋 Welcome to TRT World!
+# 👋 Welcome to TRT!
 
-![Open Source at TRT World](https://www.trtworld.com/images/share-1000x500.png)
+![Open Source at TRT World](https://kariyer.trt.net.tr/wp-content/uploads/2020/02/trtli-olma-web-en.jpg)
 
 **TRT is Hiring!**
 
